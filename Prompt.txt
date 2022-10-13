@@ -2,6 +2,21 @@
 %人物%mesugaki(雌小鬼
 %人物%ojousama(大小姐
 %人物%succubus(魅魔
+%其他%Chinese(中文
+%其他%English(英文
+%其他%French(法文
+%其他%Japanese(日本人
+%其他%artist_request	作者未知,需要补完
+%其他%bad_id	ID转向错误(原地址或已被删除)
+%其他%tagme(图片有一些上传者未知的项目
+%其他%translation_request(翻译
+%其他%what(不知所谓
+%分辨率%absurdre(超高分辨率
+%分辨率%checkere(格子的
+%分辨率%highre(高分辨率
+%分辨率%huge_filesize(超级高分辨率/大文件
+%分辨率%incredibly_absurdre(极高分辨率
+%分辨率%lowre(低分辨率
 %动作%adjusting hair,adjusting hair,tying hair(扎头发
 %动作%adjusting headwear(扶正帽子
 %动作%against wall(贴墙
@@ -15,22 +30,86 @@
 %动作%pillow hug(抱着枕头
 %动作%polearm(拿着枪
 %动作%salute(敬礼
+%动作%standing split(站立一字马
 %动作%tail raised(翘尾巴
 %动作%thumbs up(点赞
 %动物%cat(猫
 %动物%doggystyle(狗
+%外貌%ahoge(呆毛
+%外貌%animal_ears(动物耳朵
+%外貌%armpit(腋
+%外貌%bangs(刘海
+%外貌%bat_wings(蝙蝠翅膀
+%外貌%black_hair/black_eyes(黑发/黑眼
+%外貌%black_wings(黑色之翼
+%外貌%blonde_hair/yellow_eyes(金发/金眼
+%外貌%blue_hair/blue_eyes(蓝发/蓝眼
+%外貌%blunt_bangs(齐刘海
+%外貌%braid(辫子
+%外貌%breasts(胸部
+%外貌%brown_hair/brown_eyes(棕发/棕眼
+%外貌%bunny_ears(兔耳
+%外貌%butterfly_wings(蝴蝶翅膀
+%外貌%cat_ears(猫耳
+%外貌%chest(胸肌
 %外貌%clothes lift,shirt lift,skirt lift,sweater lift,lifted by self,dress lift(袖口卷起
+%外貌%collarbone(锁骨
+%外貌%curly_hair(卷发
+%外貌%demon_wings(恶魔之翼
+%外貌%dog_ears(狗耳
+%外貌%double_bun(包子头(两个)
+%外貌%drill_hair(钻头卷/公主卷
 %外貌%ear(耳朵
 %外貌%eyes(眼睛
+%外貌%facial_hair(男性脸部胡须
+%外貌%fangs(尖牙
 %外貌%feet(脚
+%外貌%foot(脚
+%外貌%fox_ears(狐狸耳朵
+%外貌%green_hair/green_eyes(绿发/绿眼
+%外貌%grey_hair/grey_eyes(灰发/灰眼
+%外貌%hair_bun(包子头
 %外貌%hand(手
+%外貌%hime_cut(姬发式
+%外貌%hips(臀部
+%外貌%horns(兽角
+%外貌%kneepits(膝盖内侧
 %外貌%legs(腿
 %外貌%long hair(长发
+%外貌%long_hair(长发
+%外貌%messy_hair(凌乱发型
+%外貌%midriff(腹部
+%外貌%mouse_ears(老鼠耳朵
 %外貌%mouth(嘴
+%外貌%muscle(肌肉
+%外貌%navel(肚脐
+%外貌%no_nose(没鼻子的
+%外貌%payot(长鬓角
+%外貌%pointy_ears(尖耳
+%外貌%ponytail(马尾
+%外貌%purple_hair/purple_eyes(紫发/紫眼
+%外貌%red_hair/red_eyes(红发/红眼
+%外貌%saliva(唾液
 %外貌%short hair(短发
+%外貌%short_hair(短发
+%外貌%short_ponytail(短马尾
+%外貌%side_ponytail(侧马尾
+%外貌%silver_hair/silver_eyes(银发/银眼
 %外貌%small breasts(贫乳
 %外貌%tail(尾巴
+%外貌%tan_lines(晒日线
+%外貌%thick_thighs(粗腿
+%外貌%thigh_gap(股沟
+%外貌%thighs(大腿
+%外貌%toes(脚趾
+%外貌%tongue(舌头
+%外貌%twin_braids(双辫子
+%外貌%twintails(双马尾
+%外貌%very_long_hair(很长的头发
+%外貌%wavy_hair(波浪发型
+%外貌%white_hair/white_eyes(白发/白眼
 %外貌%wings(翅膀
+%外貌%wings(翅膀/翼
 %天气%cloudy(多云
 %天气%golden hour lighting(阳光照明
 %天气%in the rain(雨
@@ -101,6 +180,51 @@
 %活动%singing(唱歌
 %活动%wading(玩水
 %物件%dakimakura(抱枕
+%物品%arrow(箭
+%物品%building(建筑
+%物品%cake(蛋糕
+%物品%camera(相机
+%物品%chair(椅子
+%物品%cherry_blossoms(樱花
+%物品%chopsticks(筷子
+%物品%christmas(圣诞节
+%物品%cigarette(香烟
+%物品%cream(奶油
+%物品%crease(起皱
+%物品%dagger	匕首/短剑
+%物品%flower_petals(花瓣
+%物品%forest(森林/树
+%物品%full_moon(满月
+%物品%gohei(御币
+%物品%guitar(吉他
+%物品%gun(枪
+%物品%halloween(万圣节
+%物品%handgun(手枪
+%物品%ice_cream(冰激凌
+%物品%lantern/lamp(灯笼
+%物品%magic_circle(魔法阵
+%物品%microphone(麦克风
+%物品%mimikaki(掏耳勺
+%物品%obento(便当
+%物品%ocean(大海
+%物品%ofuda(札符
+%物品%pentagram(五角星
+%物品%piano(钢琴
+%物品%riding_crop(马鞭
+%物品%ruins(废墟/遗迹
+%物品%sake(日本酒
+%物品%scythe(镰刀
+%物品%sunset(落日
+%物品%sword(刀
+%物品%taiyaki(鲷鱼烧
+%物品%teacup(茶杯
+%物品%umbrella(伞
+%物品%valentine(情人节
+%物品%wand(魔杖
+%物品%weapons(武器
+%物品%whip(鞭
+%物品%wine(葡萄酒
+%物品%yin_yang(阴阳
 %状态%bound,bondage,breast bondage,shibar(紧缚
 %状态%sleeping(睡觉
 %画面优化%by Canon EOS, SIGMA Art Lens 35mm F1.4, ISO 200 Shutter Speed 2000(佳能相机
@@ -120,6 +244,12 @@
 %背景%plateau(高原
 %背景%the top of the hill(山顶
 %背景%waterfall(瀑布
+%胸部%flat_chest(贫乳(A)
+%胸部%gigantic_breasts(魔乳(F)
+%胸部%huge_breasts(巨乳(E)
+%胸部%large_breasts(大胸部(D)
+%胸部%medium_breasts(中等胸部(C)
+%胸部%small_breasts(小胸部(B)
 %脸部姿态%eye contact(互看
 %腿部动作%crossed legs(二郎腿
 %腿部动作%feet up(躺着抬腿
@@ -128,14 +258,104 @@
 %腿部动作%leg lift(抬腿
 %腿部动作%one knee(单膝跪地
 %腿部动作%standing on one leg(金鸡独立
+%衣物%apron(围裙
+%衣物%babydoll(透明睡衣
+%衣物%bandaid(创可贴
 %衣物%bare shoulder(露肩
+%衣物%bare_legs(裸足
+%衣物%bare_shoulders(露双肩
+%衣物%barefoot(赤脚
+%衣物%belt(腰带
+%衣物%bike_shorts(自行车短裤
+%衣物%bikini(比基尼
+%衣物%bloomers(灯笼裤
+%衣物%bodystocking(连紧衣
+%衣物%bodysuit(紧身衣
+%衣物%bottomless(下着较少
+%衣物%bra(胸罩
+%衣物%business_suit(职场制服
+%衣物%bustier(胸衣
+%衣物%butt_plug(添加的尾巴
+%衣物%camisole(吊带背心
+%衣物%cape(披肩/斗篷/披风
+%衣物%chemise(吊带胸衣
 %衣物%china(旗袍
+%衣物%chinadress(旗袍
+%衣物%chinese_clothes(唐装
+%衣物%cleavage(乳沟
+%衣物%condom(套套
+%衣物%corset(紧身褡
+%衣物%detached_sleeves(袖肩分离装
+%衣物%diaper(尿布
 %衣物%dress(连衣裙
+%衣物%facepaint(面纹
+%衣物%formal(晚礼服
+%衣物%frills(皱边的
+%衣物%fundoshi(日式丁字裤
 %衣物%gloves(手套
+%衣物%gothic(哥特风格
+%衣物%gothic_lolita(哥特洛丽塔风格
+%衣物%gym_uniform(运动服
+%衣物%hoodie(卫衣
 %衣物%japanese clothes(日本传统服饰
+%衣物%japanese_clothes(和服
+%衣物%latex(乳贴
+%衣物%lingerie(女用贴身内衣裤
+%衣物%lolita_fashion(洛丽塔风格
+%衣物%long_sleeves(长袖
+%衣物%lowleg_panties/low_leg_panties(低腰式内裤
+%衣物%maebari/pasties(阴贴/乳贴
+%衣物%midriff(露腰上衣
+%衣物%miniskirt(迷你裙
+%衣物%mouth_hold(嘴咬住
+%衣物%no_bra(无胸罩
+%衣物%no_panties(没内裤
+%衣物%obi(衣带(和服用)
+%衣物%off_shoulder(露单肩
+%衣物%open_clothes(敞开衣服
+%衣物%open_robe(敞开长袍
+%衣物%pajamas(睡衣
+%衣物%panties(内裤
+%衣物%panty_pull(内裤拉下来
+%衣物%pantyshot(内裤走光
+%衣物%pink_panties(粉红内裤
+%衣物%pleated_skirt(百褶裙
+%衣物%polka_dot(点装花纹的
+%衣物%robe(长袍
+%衣物%santa(圣诞装
+%衣物%sarashi(缠胸布
 %衣物%school uniform(校服
+%衣物%school_swimsuit(学校泳衣
+%衣物%school_uniform(学校制服
+%衣物%see-through(透明装
+%衣物%serafuku(水手服
+%衣物%shorts(短裤
+%衣物%side-tie_bikini(系带式比基尼
+%衣物%side-tie_panties/himopan(系带式内裤
+%衣物%skirt(裙子
+%衣物%skirt_lift(掀起裙子
 %衣物%stocking(长筒袜
+%衣物%striped(横条花纹的
+%衣物%striped_panties(条纹内裤
+%衣物%suit(西装
+%衣物%summer_dress(夏日长裙
 %衣物%sweater(毛衣
+%衣物%swimsuit(泳装
+%衣物%tank_top(女用背心
+%衣物%tartan(格子花纹
+%衣物%tattoo(纹身
+%衣物%thong(丁字裤
+%衣物%topless(上着较少
+%衣物%torn_clothes(破烂衣服
+%衣物%trefoil(三角裤给你看
+%衣物%underwear(内衣
+%衣物%undressing(脱衣服中
+%衣物%uniform(制服
+%衣物%wedding_dress(婚纱
+%衣物%western(西部风格
+%衣物%white_panties(白色内裤
+%衣物%yukata(浴衣
+%衣物%zettai_ryouiki(绝对领域
 %表情%:3(ω猫嘴
 %表情%:d, XD(笑
 %表情%:p(向下吐舌头
@@ -144,64 +364,243 @@
 %表情%:|(不开心
 %表情%ahegao(嘴张开
 %表情%angry(生气
+%表情%angry(生气的
+%表情%annoyed(苦恼的
+%表情%aqua_eyes(水汪汪的眼睛
 %表情%bitter(苦
 %表情%blood from mouth(嘴口有血
+%表情%blush(脸红的
+%表情%clenched_teeth(咬牙
 %表情%closed mouth(闭嘴
+%表情%crazy(疯狂的
 %表情%crying(哭泣
+%表情%dark_persona(黑化的
 %表情%disgusted(厌恶
+%表情%drunk(喝醉的
 %表情%embarrassed(害羞
+%表情%embarrassed(尴尬的
+%表情%endured_face(忍耐的表情
 %表情%evil(邪恶
 %表情%excited(兴奋
+%表情%expressionless(无表情的
+%表情%eyeball(盯着看
+%表情%eyelid_pull(拉眼皮吐舌鬼脸
+%表情%eyes_closed(闭眼
 %表情%fear(恐惧
+%表情%food_on_face(食物在脸上
+%表情%frown(皱眉/蹙额
 %表情%gloating(幸灾乐祸一样满足的笑
+%表情%grin(露齿而笑
 %表情%half closed mouth(半闭的嘴
 %表情%happy(开心
+%表情%heart-shaped_pupils(爱心形瞳孔
+%表情%heterochromia(异色瞳
 %表情%horrifying(令人恐惧
 %表情%index finger raised(嘘
+%表情%lips(嘴唇
 %表情%lonely(孤独的
+%表情%looking_at_viewer(看着你
+%表情%makeup(浓装
 %表情%melancholic(抑郁的
 %表情%mesugaki smile(雌小鬼的嘲笑
+%表情%naughty_face(下流的表情
+%表情%nosebleed(鼻血
 %表情%open mouth(张嘴
+%表情%open_mouth(张口
+%表情%pout(努嘴
 %表情%sad(悲伤的
 %表情%seductive smile(诱人的笑
 %表情%serene(宁静的
+%表情%shy(害羞的
+%表情%sigh(叹气
+%表情%sleepy(困乏的
+%表情%slit_pupils(竖的瞳孔/猫眼
+%表情%smelling(闻
 %表情%smile(微笑
 %表情%smirk(微笑
+%表情%stare(凝视
 %表情%surprised(惊喜的
 %表情%tears(眼泪
 %表情%tempting mesugaki smile with blush cheeks(挑衅的笑的表情
 %表情%terror(惊恐
 %表情%tongue(吐舌头
+%表情%tsurime(吊眼角
+%表情%wince(闭一只眼
+%表情%wink/blinking(眨眼
+%装饰%ankle_lace-up(腿部系带
+%装饰%armband(臂章
+%装饰%armlet(臂环
+%装饰%bandage(绷带
+%装饰%bell(铃铛
+%装饰%beret(贝雷帽
+%装饰%blindfold(眼罩
+%装饰%bowtie(蝴蝶结
+%装饰%bow服装饰品/头部饰品
+%装饰%bracelet(手镯
+%装饰%cane(手杖
+%装饰%chains(锁链
+%装饰%choker(颈部饰品
+%装饰%collar(项圈
+%装饰%crown(皇冠
+%装饰%cuffs/shackles	手链/手铐
+%装饰%earrings(耳环
+%装饰%elbow_gloves(长袖手套
+%装饰%eyepatch(眼罩(独眼)
+%装饰%fingerless_gloves(露指手套
+%装饰%glasses(眼镜
+%装饰%gloves(手套
+%装饰%goggles(风镜
+%装饰%hair_bow(蝴蝶结发饰
+%装饰%hair_flower(发花
+%装饰%hair_ornament(头饰
+%装饰%hair_ribbon(发带
+%装饰%hairband(发卡
+%装饰%hairclip(发夹
 %装饰%hairpin(发卡
+%装饰%halo(头顶光环
+%装饰%handcuffs(手铐
+%装饰%hood(兜帽
+%装饰%jewelry(首饰
+%装饰%lace(花边
+%装饰%leg_garter(腿部花边环
+%装饰%maid_headdress(女仆头饰
+%装饰%mask(面具/眼罩/口罩
+%装饰%mini_top_hat(迷你礼帽
+%装饰%necklace(项链
+%装饰%necktie/tie(领带
+%装饰%nurse_cap(护士帽
+%装饰%ribbon(丝带
+%装饰%ribbon_choker(颈带
+%装饰%sailor_collar(水手领
+%装饰%scarf(围巾
+%装饰%sunglasses(太阳镜
+%装饰%tiara(三重冕
+%装饰%tokin_hat(东金帽子
+%装饰%wrist_cuffs(腕饰
+%装饰%wristband(腕带
+%身体姿态%adjusting_thighhigh(调整过膝袜
 %身体姿态%all fours(不知道怎么说总之是orz的姿势
+%身体姿态%all_fours(四肢趴地
+%身体姿态%arched_back(弓身体
 %身体姿态%arm support(双手支撑
+%身体姿态%arm_support(用手支撑住
+%身体姿态%armpits(举手露腋
+%身体姿态%arms_behind_back(手放在身后
+%身体姿态%arms_crossed(手交叉于胸前
+%身体姿态%arms_up(抬手
 %身体姿态%asymmetrical docking(正面相对
 %身体姿态%back to back(背靠背
+%身体姿态%back-to-back(背对背
+%身体姿态%bathing(洗澡
 %身体姿态%bent over(更加前倾
+%身体姿态%bent_over(翘臀姿势
 %身体姿态%breasts rest on table(胸放桌子上
+%身体姿态%caramelldansen(某著名伸手扭腰动作
+%身体姿态%cat_pose(猫爪手势
 %身体姿态%cheek to cheek(脸贴脸
+%身体姿态%chin_rest(手撑着头
 %身体姿态%claw pose(猫一样的姿势
 %身体姿态%contrapposto(弯腰自然站立
 %身体姿态%crossed arms(双手抱胸
+%身体姿态%crossed_legs(二郎腿
+%身体姿态%curtsy(屈膝礼
+%身体姿态%curvy(魔鬼身材
+%身体姿态%eye_contact(眼对眼（对视）
 %身体姿态%face to face / heads together(面对面
 %身体姿态%fetal position(婴儿的姿势,脚容易崩
+%身体姿态%fetal_position(曲腿至胸
 %身体姿态%fighting stance(战斗姿势
+%身体姿态%fighting_stance(战斗姿态
+%身体姿态%finger_gun(手枪手势
+%身体姿态%fingersmile(用手指做出笑脸
+%身体姿态%hair_pull(拉头发
+%身体姿态%hand_on_hip(单手插腰
+%身体姿态%hand_to_mouth(手放在嘴边
+%身体姿态%hands_on_hips(双手叉腰
+%身体姿态%holding(拿着
+%身体姿态%holding_hands(牵手
 %身体姿态%hug from behind(从背后抱住
+%身体姿态%hug(拥抱
 %身体姿态%imminent kiss(等待亲吻
+%身体姿态%indian_style(盘腿
+%身体姿态%kneeling(下跪
+%身体姿态%lap_pillow(膝枕
 %身体姿态%leaning forward(身体前倾
+%身体姿态%leaning_forward(身体前驱
+%身体姿态%leg_hug(抱腿
+%身体姿态%leg_lift(抬一只脚
+%身体姿态%legs_up(抬两只脚
+%身体姿态%looking_back(向后看
+%身体姿态%lying(躺着
+%身体姿态%middle_finger(比出中指
+%身体姿态%mimikaki(掏耳勺
 %身体姿态%object hug(抱着什么
 %身体姿态%on side(侧卧
 %身体姿态%on stomach(仰面躺着
+%身体姿态%on_stomach(趴着
 %身体姿态%outstretched arms,outstretched arms,spread arms(张开双手
+%身体姿态%plump(肥胖
+%身体姿态%princess_carry(公主抱
 %身体姿态%prostration(跪着
 %身体姿态%restrained(拘束
+%身体姿态%salute(敬礼
+%身体姿态%seiza(正坐
 %身体姿态%selfie(自拍
+%身体姿态%shushing(嘘手势
+%身体姿态%sitting(坐着
+%身体姿态%skinny(骨感
+%身体姿态%sleeping(睡觉
+%身体姿态%spread_arms(张手
+%身体姿态%spread_legs(张腿
 %身体姿态%squatting(弯腰
+%身体姿态%squatting(蹲下
+%身体姿态%standing(站立
+%身体姿态%straddle(跨坐
 %身体姿态%straddling(跨坐
+%身体姿态%stretch(伸懒腰
 %身体姿态%stretching(伸展姿势
 %身体姿态%stuffed toy,stuffed toy,stuffed animal(抱着玩偶
+%身体姿态%sweat(流汗
 %身体姿态%symmetrical docking(胸贴在一起
+%身体姿态%symmetrical_docking(胸对胸
+%身体姿态%symmetrical_hand_pose(手对手
+%身体姿态%thumbs_up(翘大拇指
+%身体姿态%top-down_bottom-up(趴着翘臀
 %身体姿态%under covers(盖着被
+%身体姿态%upside-down(颠倒的
+%身体姿态%v(胜利手势
+%身体姿态%wariza/w-sitting(割坐
+%身体姿态%waving(招手
+%身体姿态%wet(湿身
+%身体姿态%yokozuwari(侧身坐
+%鞋子%boots(靴子
+%鞋子%cross-laced_footwear(系带靴
+%鞋子%high_heels(高跟鞋
+%鞋子%knee_boots(马靴
+%鞋子%mary_janes(玛丽珍鞋
+%鞋子%slippers(拖鞋
+%鞋子%uwabaki(女式学生鞋
+%颜文字%+_+(+_+
+%颜文字%/\/\/\(/\/\/\%颜文字%0_0(0_0
+%颜文字%3_3(3_3
+%颜文字%:3(:3
+%颜文字%:<(:<
+%颜文字%:>(:>
+%颜文字%:>=(:>=
+%颜文字%:D(:D
+%颜文字%:o(:o
+%颜文字%:p(:p
+%颜文字%:t(:t
+%颜文字%;p(;p
+%颜文字%=_=(=_=
+%颜文字%>_<(>_<
+%颜文字%@_@(@_@
+%颜文字%^_^(^_^
+%颜文字%o3o(o3o
+%颜文字%o_o(o_o
+%颜文字%q:(q:
+%颜文字%x3(x3
+%颜文字%|_|(|_|
 %颜色%Primrose purple(樱草紫
 %颜色%black(黑
 %颜色%blond(棕
@@ -212,10 +611,50 @@
 %颜色%red(红
 %颜色%white(白
 %颜色%yellow(黄
+%风格%4koma(四格
 %风格%Genshin-Impact(原神
+%风格%album(专辑
+%风格%animated_gif(gif格式图片
+%风格%artbook(原画
 %风格%azur_lane(碧蓝航线
+%风格%back(背影像
 %风格%bloodborne(血源诅咒
 %风格%blue_archive(碧蓝档案
+%风格%bust(半身像
+%风格%cityscape(城市风景
+%风格%colorful(色彩斑斓的
+%风格%column_lineup(一列列小图组成大图
+%风格%comic(漫画
+%风格%cosplay(角色扮演
+%风格%covr(封面
+%风格%crossover(穿越
+%风格%dakimakura(抱枕
 %风格%dark soul(黑暗之魂
+%风格%everyone(一部作品中的主要人物集齐
+%风格%expressions(表情绘（各种表情）
+%风格%fine_art_parody(名画模仿
+%风格%game_cg(游戏CG
+%风格%gradient_background(渐变的背景
 %风格%granblue fantasy(碧蓝幻想
-%风格%octopath traveler(八方旅人)%动作%standing split(站立一字马
+%风格%landscape/scenery(风景
+%风格%monochrome(单色图片
+%风格%octopath traveler(八方旅人)
+%风格%optical_illusion(视觉错误
+%风格%original(原创
+%风格%parody(拙劣的模仿
+%风格%personification(拟人
+%风格%photo(照片
+%风格%pixel_art(点阵图
+%风格%profile(侧面绘
+%风格%real(真实
+%风格%realistic(写实
+%风格%sample(图上有sample字样
+%风格%science_fiction(科技幻想
+%风格%silhouette(剪影
+%风格%simple_background(简单的背景(无背景)
+%风格%sketch(素描
+%风格%traditional_media(传统媒体（基本上是手绘稿）
+%风格%transparent_background(透明的背景(.png)
+%风格%wallpaper(壁纸
+%风格%watercolor_(medium)(透明水彩绘
+%风格%zoom_layer(背景是前景的放大版
