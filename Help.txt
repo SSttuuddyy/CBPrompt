@@ -15,6 +15,8 @@
 5、文件
 左上角文件可快捷打开Prompt.txt和Presets文件夹
 
-pps：这是学习python中的练习作，如有问题或建议可在novelai吧或Github反馈，感激不尽！
+pps：受贴吧老哥启发，心血来潮写了个程序，实现了一些自己想要的功能
+      Prompt里的内容复制于那位吧友，感谢！
+     如有问题或建议可在novelai吧或Github反馈，感激不尽！
 
 Github：https://github.com/SSttuuddyy/CBPrompt
