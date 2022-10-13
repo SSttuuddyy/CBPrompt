@@ -1,0 +1,221 @@
+%人物%bishoujo(美少女
+%人物%mesugaki(雌小鬼
+%人物%ojousama(大小姐
+%人物%succubus(魅魔
+%动作%adjusting hair,adjusting hair,tying hair(扎头发
+%动作%adjusting headwear(扶正帽子
+%动作%against wall(贴墙
+%动作%feeding(喂食
+%动作%hand in own hai(用手整理头发
+%动作%hands on hips(掐腰
+%动作%headpat(拍头
+%动作%jack-o'_challenge,top down bottom up(上身着地,双腿张开，臀部高高翘起的姿势
+%动作%knees up(抱腿坐
+%动作%piggyback(背着
+%动作%pillow hug(抱着枕头
+%动作%polearm(拿着枪
+%动作%salute(敬礼
+%动作%tail raised(翘尾巴
+%动作%thumbs up(点赞
+%动物%cat(猫
+%动物%doggystyle(狗
+%外貌%clothes lift,shirt lift,skirt lift,sweater lift,lifted by self,dress lift(袖口卷起
+%外貌%ear(耳朵
+%外貌%eyes(眼睛
+%外貌%feet(脚
+%外貌%hand(手
+%外貌%legs(腿
+%外貌%long hair(长发
+%外貌%mouth(嘴
+%外貌%short hair(短发
+%外貌%small breasts(贫乳
+%外貌%tail(尾巴
+%外貌%wings(翅膀
+%天气%cloudy(多云
+%天气%golden hour lighting(阳光照明
+%天气%in the rain(雨
+%天气%intense shadows(强烈的阴影
+%天气%rainy days(雨天
+%天气%strong rim light(强边缘照明
+%天气%sun rise(日出
+%天气%sunset(日落
+%姿态%reclining(躺着
+%季节%in autumn(秋
+%季节%spring(春
+%季节%summer(夏
+%季节%winter(冬
+%建筑物% in the onsen(温泉
+%建筑物%at the castle(城的外观风景
+%建筑物%at the lighthouse(灯塔
+%建筑物%in a locker room(在上锁的房间
+%建筑物%in bars(酒吧
+%建筑物%in the baroque architecture(巴洛克建筑
+%建筑物%in the castle(城的内部风景
+%建筑物%in the cyberpunk city(赛博朋克城市
+%建筑物%in the palace(宫廷
+%建筑物%in the romanesque architecture streets(罗马街道
+%建筑物%in the street(街道
+%建筑物%japanese arch(鸟居
+%手部动作%adjusting eyewear(扶正眼镜
+%手部动作%arm behind back(手放背后
+%手部动作%between legs(手在大腿之间
+%手部动作%clenched hand(攥拳
+%手部动作%finger to mouth(舔手指
+%手部动作%hand on headwear(手放帽子上
+%手部动作%hand on own cheek(手放脸颊
+%手部动作%hand on own chin(手放下颚
+%手部动作%hand on own face(手放头上
+%手部动作%hand over own mouth(手遮脸
+%手部动作%hands in hair(手放头发里
+%手部动作%hands in pockets(手插兜
+%手部动作%interlocked fingers(双手紧握
+%手部动作%outstretched hand(向外伸手
+%手部动作%own hands together(胸前两手紧握
+%手部动作%peace sign(剪刀手
+%手部动作%pointing at viewer / up / at self / another / forward / weapon / down / sword / to the side(手指向观众/向上/自己/另一个人/向前/武器/向下/剑/向侧
+%构图%1boy(男性
+%构图%1girl(女性
+%构图%6+girls(六人以上
+%构图%afloat(浮在水上
+%构图%aiming at viewer(狙击
+%构图%arm hug(挽手
+%构图%hair over shoulder(头发过肩的构图
+%构图%head/feet out of frame(头/足部在画外
+%构图%height difference(身高差
+%构图%holding hands(牵手
+%构图%in container XX(在XX里
+%构图%in container cardboard box(在纸箱里
+%构图%looking down(向下看
+%构图%looking up(向上看
+%构图%multiple girls(多人
+%构图%partially submerged(浸在水中
+%构图%silhouette(侧面
+%构图%soaking feet(脚在水里
+%构图%through glass,through glass,against glass(透过玻璃
+%活动%dancing(跳舞
+%活动%exercise(锻炼
+%活动%fleeing(逃跑
+%活动%kicking(脚踢
+%活动%playing card(玩牌
+%活动%punching(拳打,在negative prompt里加boxing gloves
+%活动%singing(唱歌
+%活动%wading(玩水
+%物件%dakimakura(抱枕
+%状态%bound,bondage,breast bondage,shibar(紧缚
+%状态%sleeping(睡觉
+%画面优化%by Canon EOS, SIGMA Art Lens 35mm F1.4, ISO 200 Shutter Speed 2000(佳能相机
+%画面优化%detailed CG Unity 8k wallpaper(CG壁纸
+%画面优化%masterpiece(佳作
+%画面光线%dark(暗
+%画面光线%light(明
+%背景%beautiful purple sunset at beach(海边的美丽日落
+%背景%by the moon(在月亮边上
+%背景%in a meadow(草地
+%背景%in the ocean(海里
+%背景%on a desert(沙漠
+%背景%on the beach(海滩上
+%背景%on the boat(船上
+%背景%on the hill(山上
+%背景%over the sea(海边上
+%背景%plateau(高原
+%背景%the top of the hill(山顶
+%背景%waterfall(瀑布
+%脸部姿态%eye contact(互看
+%腿部动作%crossed legs(二郎腿
+%腿部动作%feet up(躺着抬腿
+%腿部动作%indian style(盘腿坐
+%腿部动作%kneeling(跪地直立
+%腿部动作%leg lift(抬腿
+%腿部动作%one knee(单膝跪地
+%腿部动作%standing on one leg(金鸡独立
+%衣物%bare shoulder(露肩
+%衣物%china(旗袍
+%衣物%dress(连衣裙
+%衣物%gloves(手套
+%衣物%japanese clothes(日本传统服饰
+%衣物%school uniform(校服
+%衣物%stocking(长筒袜
+%衣物%sweater(毛衣
+%表情%:3(ω猫嘴
+%表情%:d, XD(笑
+%表情%:p(向下吐舌头
+%表情%:q(向上吐舌头
+%表情%:t(不耐烦
+%表情%:|(不开心
+%表情%ahegao(嘴张开
+%表情%angry(生气
+%表情%bitter(苦
+%表情%blood from mouth(嘴口有血
+%表情%closed mouth(闭嘴
+%表情%crying(哭泣
+%表情%disgusted(厌恶
+%表情%embarrassed(害羞
+%表情%evil(邪恶
+%表情%excited(兴奋
+%表情%fear(恐惧
+%表情%gloating(幸灾乐祸一样满足的笑
+%表情%half closed mouth(半闭的嘴
+%表情%happy(开心
+%表情%horrifying(令人恐惧
+%表情%index finger raised(嘘
+%表情%lonely(孤独的
+%表情%melancholic(抑郁的
+%表情%mesugaki smile(雌小鬼的嘲笑
+%表情%open mouth(张嘴
+%表情%sad(悲伤的
+%表情%seductive smile(诱人的笑
+%表情%serene(宁静的
+%表情%smile(微笑
+%表情%smirk(微笑
+%表情%surprised(惊喜的
+%表情%tears(眼泪
+%表情%tempting mesugaki smile with blush cheeks(挑衅的笑的表情
+%表情%terror(惊恐
+%表情%tongue(吐舌头
+%装饰%hairpin(发卡
+%身体姿态%all fours(不知道怎么说总之是orz的姿势
+%身体姿态%arm support(双手支撑
+%身体姿态%asymmetrical docking(正面相对
+%身体姿态%back to back(背靠背
+%身体姿态%bent over(更加前倾
+%身体姿态%breasts rest on table(胸放桌子上
+%身体姿态%cheek to cheek(脸贴脸
+%身体姿态%claw pose(猫一样的姿势
+%身体姿态%contrapposto(弯腰自然站立
+%身体姿态%crossed arms(双手抱胸
+%身体姿态%face to face / heads together(面对面
+%身体姿态%fetal position(婴儿的姿势,脚容易崩
+%身体姿态%fighting stance(战斗姿势
+%身体姿态%hug from behind(从背后抱住
+%身体姿态%imminent kiss(等待亲吻
+%身体姿态%leaning forward(身体前倾
+%身体姿态%object hug(抱着什么
+%身体姿态%on side(侧卧
+%身体姿态%on stomach(仰面躺着
+%身体姿态%outstretched arms,outstretched arms,spread arms(张开双手
+%身体姿态%prostration(跪着
+%身体姿态%restrained(拘束
+%身体姿态%selfie(自拍
+%身体姿态%squatting(弯腰
+%身体姿态%straddling(跨坐
+%身体姿态%stretching(伸展姿势
+%身体姿态%stuffed toy,stuffed toy,stuffed animal(抱着玩偶
+%身体姿态%symmetrical docking(胸贴在一起
+%身体姿态%under covers(盖着被
+%颜色%Primrose purple(樱草紫
+%颜色%black(黑
+%颜色%blond(棕
+%颜色%blue(蓝
+%颜色%gray(灰
+%颜色%green(绿
+%颜色%purple(紫
+%颜色%red(红
+%颜色%white(白
+%颜色%yellow(黄
+%风格%Genshin-Impact(原神
+%风格%azur_lane(碧蓝航线
+%风格%bloodborne(血源诅咒
+%风格%blue_archive(碧蓝档案
+%风格%dark soul(黑暗之魂
+%风格%granblue fantasy(碧蓝幻想
+%风格%octopath traveler(八方旅人)%动作%standing split(站立一字马
